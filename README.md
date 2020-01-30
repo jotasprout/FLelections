@@ -2,9 +2,11 @@ A couple days later, it still says Republican.
 
 # FLelections
 Data and investigation
+
 https://dos.myflorida.com/elections/
 
 **Supervisor of Elections Contact Information**
+
 https://dos.myflorida.com/media/702608/qrycountyinfo_excel-1.xlsx
 
 https://dos.myflorida.com/media/702396/labels-dbo_tblcountycontactslabels-20191202.pdf
@@ -17,4 +19,5 @@ General Election: November 3 (deadline to register: Oct 5)
 
 ## Voter Registration Reports
 Archived monthly
+
 https://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-registration-monthly-reports/
